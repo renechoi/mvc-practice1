@@ -1,7 +1,7 @@
 package org.example.calculator;
 
-import org.example.calculator.domain.Calculator;
-import org.example.calculator.domain.PositiveNumber;
+import org.example.calculator.tobe.Calculator;
+import org.example.calculator.tobe.PositiveNumber;
 import org.example.calculator.ui.ConsoleInputUI;
 import org.example.calculator.ui.ConsoleOutputUI;
 
